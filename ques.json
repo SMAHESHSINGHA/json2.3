@@ -1,0 +1,22 @@
+[{
+    
+    "title":"What is HTML-Explain in BRIEF?",
+    "description":"Html stands for Hypertext Markup Language and it is the most widely used language to write Web Pages. Hypertext refers to the way in which Web pages (HTML documents) are linked together. Thus, the link available on a webpage is called Hypertext.As its name suggests, HTML is a Markup Language which means you use HTML to simply 'mark-up' a text document with tags that tell a Web browser how to structure it to display.Originally, HTML was developed with the intent of defining the structure of documents like headings, paragraphs, lists, and so forth to facilitate the sharing of scientific information between researchers.Now, HTML is being widely used to format web pages with the help of different tags available in HTML language.",
+    "image":"download.png"
+},
+{
+    
+    "title":"What is CSS-Explain in BRIEF?",
+    "description":"Cascading Style Sheets, fondly referred to as CSS, is a simply designed language intended to simplify the process of making web pages presentable. CSS allows you to apply styles to web pages. More importantly, CSS enables you to do this independent of the HTML that makes up each web page. It describes how a webpage should look: it prescribes colors, fonts, spacing, and much more. In short, you can make your website look however you want. CSS lets developers and designers define how it behaves, including how elements are positioned in the browser.While html uses tags, css uses rulesets. CSS is easy to learn and understand, but it provides powerful control over the presentation of an HTML document.",
+    "image":"css.png"
+},
+{
+    "title":"What is Javascript-Explain in BRIEF?",
+    "description":"JavaScript is the most popular programming language for both client-side and server-side to make interactive web pages. It is mainly used to develop websites and web-based applications.Creating Interactive Websites: JavaScript is used to make the web pages dynamic and interactive. It means using JavaScript, we can change the web page content and styles dynamically.Building Applications: JavaScript is used to make web and mobile applications. To build the web and mobile apps, we can use most popular JavaScript frameworks like – ReactJS, React Native, Node.js etc.Web Servers: We can make robust server applications using JavaScript. To be precise we use JavaScript frameworks like Node.js and Express.js to build these servers.Game Development: JavaSCript can be used to design Browser games. In JavaScript, lots of game engines available that provide frameworks for building games",
+    "image":"js.jpeg"
+},
+{
+    "title":"What is JASON-Explain in BRIEF?",
+    "description":"JSON or JavaScript Object Notation is a lightweight text-based open standard designed for human-readable data interchange. Conventions used by JSON are known to programmers, which include C, C++, Java, Python, Perl, etc.JSON stands for JavaScript Object Notation.The format was specified by Douglas Crockford.It was designed for human-readable data interchange.It has been extended from the JavaScript scripting language.The filename extension is .json.JSON Internet Media type is application/json.The Uniform Type Identifier is public.json.Uses of JSON.It is used while writing JavaScript based applications that includes browser extensions and websites.JSON format is used for serializing and transmitting structured data over network connection.It is primarily used to transmit data between a server and web applications.Web services and APIs use JSON format to provide public data.It can be used with modern programming languages.Characteristics of JSON.JSON is easy to read and write.It is a lightweight text-based interchange format.JSON is language independent.",
+    "image":"jason.png"
+}]
